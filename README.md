@@ -8,3 +8,4 @@ git version dev-wzc
 git version dev
 git version master
 git version 0.8.2
+git version 0.8.1
